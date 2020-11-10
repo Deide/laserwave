@@ -114,7 +114,8 @@
                 "keyword.declaration.dart",
                 "keyword.package.go",
                 "keyword.import.go",
-                "keyword.fsharp"
+                "keyword.fsharp",
+                "keyword.pascal"
             ],
             "settings": {
                 "foreground": "#40b4c4"
@@ -414,7 +415,8 @@
                 "keyword.struct.go",
                 "storage.modifier.async.js",
                 "support.class.dart",
-                "entity.name.type.fsharp"
+                "entity.name.type.fsharp",
+                "entity.name.type.pascal"
             ],
             "settings": {
                 "foreground": "#a96bc0"
